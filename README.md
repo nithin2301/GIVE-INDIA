@@ -1,7 +1,7 @@
 # GIVE-INDIA
 Donation for the Needy!
 THE SPARK FOUNDATION
-TASK:3-Payment Gateway Integration
+<b>TASK:3-Payment Gateway Integration</b>
 
 Stack used 
 Frontend - HTML,CSS, BOOSTRAP,JAVASCRIPT
