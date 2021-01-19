@@ -1,9 +1,9 @@
 # GIVE-INDIA
-Donation for the Needy!
-THE SPARK FOUNDATION
+Donation for the Needy! <br>
+THE SPARK FOUNDATION <br>
 <b>TASK:3-Payment Gateway Integration</b>
 
-Stack used 
-Frontend - HTML,CSS, BOOSTRAP,JAVASCRIPT
-Third Party Integration : RAZORPAY
+Stack used <br>
+Frontend - HTML,CSS, BOOSTRAP,JAVASCRIPT <br>
+Third Party Integration : RAZORPAY <br>
 WEBSITE LINK: https://giveindiadonation.000webhostapp.com/
